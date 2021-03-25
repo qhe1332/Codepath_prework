@@ -39,7 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+<img src="demo.gif" alt="demo">
+ 
 
 
 ## Reflection Questions
